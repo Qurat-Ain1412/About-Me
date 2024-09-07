@@ -1,7 +1,7 @@
 
 
 
-![image](desktop/code.png)
+![image](code.png)
 
 
 
