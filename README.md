@@ -7,7 +7,7 @@
 
 
 
-- 👋 Hi, I’m @Ainastrology
+- 👋 Hi, I’m Quratulain
 - 👀 I’m interested in Full St@ck Progr@mming...Aspire to be the Professional Computer Scientist
 - 🌱 I'm currently learning Web Developement , Artificial Intelligence alongwith Automated Algorithms & Enterprise Web Application ...
 - 💞️ I’m looking to collaborate on Web Development , Data Science and Automation as well as Ethical Hacking/Networking...
