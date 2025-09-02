@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Quratulain Akram
 
-I am a passionate Full Stack Developer, aspiring to excel as a Professional Computer Scientist. My expertise lies in Web Development, Artificial Intelligence, Automated Algorithms, and Enterprise Web Applications.
+I am a passionate Full Stack Developer, aspiring to excel as a Professional Computer Scientist. My expertise lies in Web Development, in various stacks (MEAN stack & MERN stack).
 
 ## 🚀 About Me
 
@@ -10,15 +10,13 @@ I am a passionate Full Stack Developer, aspiring to excel as a Professional Comp
 
 - 💡 **Current Focus**: Expanding my knowledge in:
    - Web Development (MERN Stack)
-   - Blockchain
+   - Enhancing Debugging Techniques
    - Artificial Intelligence and Machine Learning
-   - Automation and Algorithm Optimization
    - Enterprise Web Application Development
 
 - 🤝 **Collaboration Interests**:
    - Web Development
    - Data Science and Automation
-   - Ethical Hacking and Networking
 
 ## 📬 Get in Touch
 
